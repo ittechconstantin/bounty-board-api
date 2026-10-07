@@ -1,1 +1,0 @@
-"""Bounty Board API package."""
